@@ -38,7 +38,7 @@ namespace AdoNetProject
                 };
                 products.Add(product);
             }
-            // 1. Yol
+            // 1. Yöntem...
             //DataTable dataTable = new DataTable();
             //dataTable.Load(reader);
 
