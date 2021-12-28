@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AdoNetProject"
+    "\\AdoNetProject",
+    "\\ConsoleApp1"
   ],
-  "SelectedNode": "\\AdoNetProject\\ProductDal.cs",
+  "SelectedNode": "\\AdoNetProject\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -50,7 +50,12 @@
       "ProjectGuid": "6c03e162-bbb5-4860-b6f2-e0c072535e9d",
       "DisplayName": "AdoNetProject",
       "ColorIndex": 8
+    },
+    "50963b9a-8584-4de6-9ded-85492d5b9844": {
+      "ProjectGuid": "50963b9a-8584-4de6-9ded-85492d5b9844",
+      "DisplayName": "EntityFrameworkProject",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 10
 }
