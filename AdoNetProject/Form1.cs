@@ -17,10 +17,58 @@ namespace AdoNetProject
             InitializeComponent();
         }
 
+        ProductDal _productDal = new ProductDal();
         private void Form1_Load(object sender, EventArgs e)
         {
-            ProductDal productDal = new ProductDal();
-            dgwProducts.DataSource = productDal.GetAll();
+            LoadProducts();
+        }
+        public void LoadProducts()
+        {
+            dgwProducts.DataSource = _productDal.GetAll();
+
+        }
+
+
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+            _productDal.Add(new Product
+            {
+                Name = txtName.Text,
+                UnitPrice = Convert.ToDecimal(txtUnitPrice.Text),
+                StockAmount = Convert.ToInt32(txtStockAmount.Text)
+            });
+            LoadProducts();
+            MessageBox.Show("Added !");
+        }
+
+
+        private void dgwProducts_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            txtNameUpdate.Text = dgwProducts.CurrentRow.Cells[1].Value.ToString();
+            txtUnitPriceUpdate.Text = dgwProducts.CurrentRow.Cells[2].Value.ToString();
+            txtStockAmountUpdate.Text = dgwProducts.CurrentRow.Cells[3].Value.ToString();
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            Product product = new Product
+            {
+                Id = Convert.ToInt32(dgwProducts.CurrentRow.Cells[0].Value),
+                Name = txtNameUpdate.Text,
+                UnitPrice = Convert.ToDecimal(txtUnitPriceUpdate.Text),
+                StockAmount = Convert.ToInt32(txtStockAmountUpdate.Text)
+            };
+            _productDal.Update(product);
+            LoadProducts();
+            MessageBox.Show("Updated !");
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+           int id = Convert.ToInt32(dgwProducts.CurrentRow.Cells[0].Value);
+            _productDal.Delete(id);
+            LoadProducts();
+            MessageBox.Show("Deleted !");
         }
     }
 }
