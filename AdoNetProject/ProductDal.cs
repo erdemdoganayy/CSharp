@@ -37,7 +37,7 @@ namespace AdoNetProject
             // 1. Yol
             //DataTable dataTable = new DataTable();
             //dataTable.Load(reader);
-            //Selamlar
+           
 
             reader.Close();
             connection.Close();
