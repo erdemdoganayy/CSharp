@@ -1,0 +1,8 @@
+C:\Users\ERDEM\source\repos\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.exe.config
+C:\Users\ERDEM\source\repos\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.exe
+C:\Users\ERDEM\source\repos\ConsoleAppArrays\bin\Debug\ConsoleAppArrays.pdb
+C:\Users\ERDEM\source\repos\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.AssemblyReference.cache
+C:\Users\ERDEM\source\repos\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERDEM\source\repos\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.exe
+C:\Users\ERDEM\source\repos\ConsoleAppArrays\obj\Debug\ConsoleAppArrays.pdb

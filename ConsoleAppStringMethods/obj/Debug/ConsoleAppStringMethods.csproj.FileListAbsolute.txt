@@ -1,0 +1,8 @@
+C:\Users\ERDEM\source\repos\ConsoleAppStringMethods\bin\Debug\ConsoleAppStringMethods.exe.config
+C:\Users\ERDEM\source\repos\ConsoleAppStringMethods\bin\Debug\ConsoleAppStringMethods.exe
+C:\Users\ERDEM\source\repos\ConsoleAppStringMethods\bin\Debug\ConsoleAppStringMethods.pdb
+C:\Users\ERDEM\source\repos\ConsoleAppStringMethods\obj\Debug\ConsoleAppStringMethods.csproj.AssemblyReference.cache
+C:\Users\ERDEM\source\repos\ConsoleAppStringMethods\obj\Debug\ConsoleAppStringMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERDEM\source\repos\ConsoleAppStringMethods\obj\Debug\ConsoleAppStringMethods.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\ConsoleAppStringMethods\obj\Debug\ConsoleAppStringMethods.exe
+C:\Users\ERDEM\source\repos\ConsoleAppStringMethods\obj\Debug\ConsoleAppStringMethods.pdb

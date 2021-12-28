@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\AdoNetProject\obj\Debug\AdoNetProject.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AdoNetProject\obj\Debug\AdoNetProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\AdoNetProject\obj\Debug\AdoNetProject.Form1.resources
+C:\Users\user\source\repos\AdoNetProject\obj\Debug\AdoNetProject.Properties.Resources.resources
+C:\Users\user\source\repos\AdoNetProject\obj\Debug\AdoNetProject.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AdoNetProject\obj\Debug\AdoNetProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdoNetProject\bin\Debug\AdoNetProject.exe.config
+C:\Users\user\source\repos\AdoNetProject\bin\Debug\AdoNetProject.exe
+C:\Users\user\source\repos\AdoNetProject\bin\Debug\AdoNetProject.pdb
+C:\Users\user\source\repos\AdoNetProject\obj\Debug\AdoNetProject.exe
+C:\Users\user\source\repos\AdoNetProject\obj\Debug\AdoNetProject.pdb

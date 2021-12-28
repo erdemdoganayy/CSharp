@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\Classes2\bin\Debug\Classes2.exe.config
+C:\Users\ERDEM\source\repos\Classes2\bin\Debug\Classes2.exe
+C:\Users\ERDEM\source\repos\Classes2\bin\Debug\Classes2.pdb
+C:\Users\ERDEM\source\repos\Classes2\obj\Debug\ConsoleAppClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERDEM\source\repos\Classes2\obj\Debug\ConsoleAppClass.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\Classes2\obj\Debug\Classes2.exe
+C:\Users\ERDEM\source\repos\Classes2\obj\Debug\Classes2.pdb

@@ -1,0 +1,8 @@
+C:\Users\ERDEM\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ERDEM\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ERDEM\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ERDEM\source\repos\ConsoleApp1\obj\Debug\ConsoleAppMethods.csproj.AssemblyReference.cache
+C:\Users\ERDEM\source\repos\ConsoleApp1\obj\Debug\ConsoleAppMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERDEM\source\repos\ConsoleApp1\obj\Debug\ConsoleAppMethods.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ERDEM\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

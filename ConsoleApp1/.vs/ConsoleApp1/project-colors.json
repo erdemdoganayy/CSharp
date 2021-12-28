@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "952e272d-0f3f-42b9-b032-af6e18162cda": {
+      "ProjectGuid": "952e272d-0f3f-42b9-b032-af6e18162cda",
+      "DisplayName": "ConsoleAppMethods",
+      "ColorIndex": 0
+    },
+    "2a553624-3ae0-497f-a45e-79c2bb141173": {
+      "ProjectGuid": "2a553624-3ae0-497f-a45e-79c2bb141173",
+      "DisplayName": "Classes",
+      "ColorIndex": 1
+    },
+    "419afaa1-3557-4825-aa31-c8e440937d27": {
+      "ProjectGuid": "419afaa1-3557-4825-aa31-c8e440937d27",
+      "DisplayName": "ConsoleAppClass",
+      "ColorIndex": 2
+    },
+    "44b942b9-0f36-4b3b-b2af-8f0308d77114": {
+      "ProjectGuid": "44b942b9-0f36-4b3b-b2af-8f0308d77114",
+      "DisplayName": "ConsoleAppStaticClass",
+      "ColorIndex": 3
+    },
+    "b6c6252a-773c-4018-a320-f59f7647acd3": {
+      "ProjectGuid": "b6c6252a-773c-4018-a320-f59f7647acd3",
+      "DisplayName": "ConsoleAppArrays",
+      "ColorIndex": 4
+    },
+    "c7a440a0-8df5-4232-88b2-f010a8418a8e": {
+      "ProjectGuid": "c7a440a0-8df5-4232-88b2-f010a8418a8e",
+      "DisplayName": "ConsoleAppStringMethods",
+      "ColorIndex": 5
+    },
+    "8c57cf7f-dd02-4677-837b-caaf15b47fc3": {
+      "ProjectGuid": "8c57cf7f-dd02-4677-837b-caaf15b47fc3",
+      "DisplayName": "ConsoleAppReferanceAndValueType",
+      "ColorIndex": 6
+    },
+    "58bcd882-07c2-4f30-b70b-25c13215f77c": {
+      "ProjectGuid": "58bcd882-07c2-4f30-b70b-25c13215f77c",
+      "DisplayName": "ConsoleAppCollections",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6c03e162-bbb5-4860-b6f2-e0c072535e9d": {
+      "ProjectGuid": "6c03e162-bbb5-4860-b6f2-e0c072535e9d",
+      "DisplayName": "AdoNetProject",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

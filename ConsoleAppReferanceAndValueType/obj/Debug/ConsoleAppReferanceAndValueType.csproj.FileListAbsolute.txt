@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\ConsoleAppReferanceAndValueType\bin\Debug\ConsoleAppReferanceAndValueType.exe.config
+C:\Users\user\source\repos\ConsoleAppReferanceAndValueType\bin\Debug\ConsoleAppReferanceAndValueType.exe
+C:\Users\user\source\repos\ConsoleAppReferanceAndValueType\bin\Debug\ConsoleAppReferanceAndValueType.pdb
+C:\Users\user\source\repos\ConsoleAppReferanceAndValueType\obj\Debug\ConsoleAppReferanceAndValueType.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleAppReferanceAndValueType\obj\Debug\ConsoleAppReferanceAndValueType.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\ConsoleAppReferanceAndValueType\obj\Debug\ConsoleAppReferanceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleAppReferanceAndValueType\obj\Debug\ConsoleAppReferanceAndValueType.exe
+C:\Users\user\source\repos\ConsoleAppReferanceAndValueType\obj\Debug\ConsoleAppReferanceAndValueType.pdb
