@@ -15,6 +15,13 @@ namespace EntityFrameworkProjects
                 return context.Products.ToList();
             }
         }
+        public List<Product> GetSearch(string key)
+        {
+            using (ETradeContext context = new ETradeContext())
+            {
+                return context.Products.Where(s=> s.Name.Contains(key)).ToList();
+            }
+        }
         public void Add(Product product)
         {
             using (ETradeContext context = new ETradeContext())

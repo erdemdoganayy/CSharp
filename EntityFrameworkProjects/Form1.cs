@@ -51,7 +51,7 @@ namespace EntityFrameworkProjects
             });
             LoadProducts();
             MessageBox.Show("Updated !");
-        }
+        } 
         private void btnDelete_Click(object sender, EventArgs e)
         {
             _productDal.Delete(new Product
@@ -68,7 +68,14 @@ namespace EntityFrameworkProjects
             txtUnitPriceUpdate.Text = dgwProducts.CurrentRow.Cells[2].Value.ToString();
             txtStockAmountUpdate.Text = dgwProducts.CurrentRow.Cells[3].Value.ToString();
         }
-
-
+        private void SearchProducts(string key)
+        {
+            var result = _productDal.GetSearch(key);
+            dgwProducts.DataSource = result;
+        }
+        private void txtSearch_TextChanged(object sender, EventArgs e)
+        {
+            SearchProducts(txtSearch.Text);
+        }
     }
 }
