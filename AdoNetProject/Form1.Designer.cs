@@ -46,6 +46,7 @@
             this.lblUnitPriceUpdate = new System.Windows.Forms.Label();
             this.lblNameUpdate = new System.Windows.Forms.Label();
             this.btnDelete = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgwProducts)).BeginInit();
             this.gbxAdd.SuspendLayout();
             this.gbxUpdate.SuspendLayout();
@@ -55,7 +56,7 @@
             // 
             this.dgwProducts.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgwProducts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgwProducts.Location = new System.Drawing.Point(36, 31);
+            this.dgwProducts.Location = new System.Drawing.Point(36, 53);
             this.dgwProducts.Name = "dgwProducts";
             this.dgwProducts.RowHeadersWidth = 51;
             this.dgwProducts.RowTemplate.Height = 24;
@@ -72,7 +73,7 @@
             this.gbxAdd.Controls.Add(this.lblStockAmount);
             this.gbxAdd.Controls.Add(this.lblUnitPrice);
             this.gbxAdd.Controls.Add(this.lblName);
-            this.gbxAdd.Location = new System.Drawing.Point(36, 257);
+            this.gbxAdd.Location = new System.Drawing.Point(36, 279);
             this.gbxAdd.Name = "gbxAdd";
             this.gbxAdd.Size = new System.Drawing.Size(393, 178);
             this.gbxAdd.TabIndex = 1;
@@ -146,7 +147,7 @@
             this.gbxUpdate.Controls.Add(this.lblStockAmountUpdate);
             this.gbxUpdate.Controls.Add(this.lblUnitPriceUpdate);
             this.gbxUpdate.Controls.Add(this.lblNameUpdate);
-            this.gbxUpdate.Location = new System.Drawing.Point(604, 257);
+            this.gbxUpdate.Location = new System.Drawing.Point(604, 279);
             this.gbxUpdate.Name = "gbxUpdate";
             this.gbxUpdate.Size = new System.Drawing.Size(393, 178);
             this.gbxUpdate.TabIndex = 7;
@@ -213,7 +214,7 @@
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(455, 327);
+            this.btnDelete.Location = new System.Drawing.Point(455, 349);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(119, 38);
             this.btnDelete.TabIndex = 8;
@@ -221,11 +222,21 @@
             this.btnDelete.UseVisualStyleBackColor = true;
             this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(486, 9);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(53, 16);
+            this.label1.TabIndex = 9;
+            this.label1.Text = "AdoNet";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1021, 512);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.gbxUpdate);
             this.Controls.Add(this.gbxAdd);
@@ -239,6 +250,7 @@
             this.gbxUpdate.ResumeLayout(false);
             this.gbxUpdate.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -262,6 +274,7 @@
         private System.Windows.Forms.Label lblUnitPriceUpdate;
         private System.Windows.Forms.Label lblNameUpdate;
         private System.Windows.Forms.Button btnDelete;
+        private System.Windows.Forms.Label label1;
     }
 }
 
