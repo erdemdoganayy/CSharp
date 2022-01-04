@@ -1,0 +1,8 @@
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppEvents\obj\Debug\ConsoleAppEvents.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppEvents\obj\Debug\ConsoleAppEvents.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppEvents\obj\Debug\ConsoleAppEvents.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppEvents\bin\Debug\ConsoleAppEvents.exe.config
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppEvents\bin\Debug\ConsoleAppEvents.exe
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppEvents\bin\Debug\ConsoleAppEvents.pdb
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppEvents\obj\Debug\ConsoleAppEvents.exe
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppEvents\obj\Debug\ConsoleAppEvents.pdb

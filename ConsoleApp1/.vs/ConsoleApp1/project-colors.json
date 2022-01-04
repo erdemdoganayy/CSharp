@@ -55,7 +55,22 @@
       "ProjectGuid": "50963b9a-8584-4de6-9ded-85492d5b9844",
       "DisplayName": "EntityFrameworkProject",
       "ColorIndex": 9
+    },
+    "0970e3e3-4fb2-4211-8f01-6bf7b7a6d979": {
+      "ProjectGuid": "0970e3e3-4fb2-4211-8f01-6bf7b7a6d979",
+      "DisplayName": "EntityFrameworkProjects",
+      "ColorIndex": 10
+    },
+    "8065b882-2de2-4634-9b67-79027f24eea8": {
+      "ProjectGuid": "8065b882-2de2-4634-9b67-79027f24eea8",
+      "DisplayName": "ConsoleAppDelegates",
+      "ColorIndex": 11
+    },
+    "b46e3bf5-d023-4ad2-8d48-dcbda856a9a8": {
+      "ProjectGuid": "b46e3bf5-d023-4ad2-8d48-dcbda856a9a8",
+      "DisplayName": "ConsoleAppEvents",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 13
 }
