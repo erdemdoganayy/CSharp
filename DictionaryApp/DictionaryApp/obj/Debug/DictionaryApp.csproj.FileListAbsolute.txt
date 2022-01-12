@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe.config
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.pdb
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.Properties.Resources.resources
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.exe
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.pdb
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.Form1.resources
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.CopyComplete

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79036fe7-2052-4323-9746-a35b60e5deec": {
+      "ProjectGuid": "79036fe7-2052-4323-9746-a35b60e5deec",
+      "DisplayName": "Northwind.Entities",
+      "ColorIndex": 0
+    },
+    "2f7d2b0c-e61e-4db1-9097-53b9767ed3d3": {
+      "ProjectGuid": "2f7d2b0c-e61e-4db1-9097-53b9767ed3d3",
+      "DisplayName": "Northwind.Business",
+      "ColorIndex": 1
+    },
+    "63f1107a-213d-48c9-b54f-f991a75b4dda": {
+      "ProjectGuid": "63f1107a-213d-48c9-b54f-f991a75b4dda",
+      "DisplayName": "Northwind.DataAccess",
+      "ColorIndex": 2
+    },
+    "d2832c2e-fa1e-4899-bc69-109cfc2c4c9b": {
+      "ProjectGuid": "d2832c2e-fa1e-4899-bc69-109cfc2c4c9b",
+      "DisplayName": "Northwind.WebFormsUI",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
