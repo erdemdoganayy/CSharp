@@ -115,7 +115,6 @@ namespace Northwind.WebFormsUI
             tbxUnitPriceUpdate.Text = dgwProducts.CurrentRow.Cells[3].Value.ToString();
             tbxStockAmountUpdate.Text = dgwProducts.CurrentRow.Cells[4].Value.ToString();
             tbxQuantityPerUnitUpdate.Text = dgwProducts.CurrentRow.Cells[5].Value.ToString();
-
         }
 
         private void btnDelete_Click(object sender, EventArgs e)
@@ -124,7 +123,6 @@ namespace Northwind.WebFormsUI
             {
                 _productService.Delete(new Product { ProductId = Convert.ToInt32(dgwProducts.CurrentRow.Cells[0].Value) });
             }
-
             LoadProducts();
             MessageBox.Show("Ürün Silindi !");
         }
