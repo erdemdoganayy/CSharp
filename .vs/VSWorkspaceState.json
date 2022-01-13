@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AdoNetProject",
+    "\\ConsoleApp1",
+    "\\ConsoleAppDelegates",
+    "\\EntityFrameworkProjects"
   ],
+  "SelectedNode": "\\ConsoleAppDelegates\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

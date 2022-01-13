@@ -38,7 +38,7 @@ namespace AdoNetProject
                 };
                 products.Add(product);
             }
-            // 1. Yol
+            // 1. Yöntem...
             //DataTable dataTable = new DataTable();
             //dataTable.Load(reader);
 
@@ -55,7 +55,7 @@ namespace AdoNetProject
 
             SqlCommand command = new SqlCommand("Insert into Products values (@name, @unitPrice, @stockAmount) ", _connection);
             command.Parameters.AddWithValue("@name", product.Name);
-            command.Parameters.AddWithValue("@unitPrice", product.UnitPrice);
+            command.Parameters.AddWithValue("@unitPrice",product.UnitPrice);
             command.Parameters.AddWithValue("@stockAmount", product.StockAmount);
             command.ExecuteNonQuery();
 

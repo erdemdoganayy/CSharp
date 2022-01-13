@@ -1,0 +1,8 @@
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppDelegates\bin\Debug\ConsoleAppDelegates.exe.config
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppDelegates\bin\Debug\ConsoleAppDelegates.exe
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppDelegates\bin\Debug\ConsoleAppDelegates.pdb
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppDelegates\obj\Debug\ConsoleAppDelegates.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppDelegates\obj\Debug\ConsoleAppDelegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppDelegates\obj\Debug\ConsoleAppDelegates.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppDelegates\obj\Debug\ConsoleAppDelegates.exe
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\ConsoleAppDelegates\obj\Debug\ConsoleAppDelegates.pdb

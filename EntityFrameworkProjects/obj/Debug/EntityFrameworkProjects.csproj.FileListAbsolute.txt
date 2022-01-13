@@ -1,0 +1,16 @@
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\bin\Debug\EntityFrameworkProjects.exe.config
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\bin\Debug\EntityFrameworkProjects.exe
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\bin\Debug\EntityFrameworkProjects.pdb
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\bin\Debug\EntityFramework.dll
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\bin\Debug\EntityFramework.xml
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\obj\Debug\EntityFrameworkProjects.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\obj\Debug\EntityFrameworkProjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\obj\Debug\EntityFrameworkProjects.Properties.Resources.resources
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\obj\Debug\EntityFrameworkProjects.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\obj\Debug\EntityFrameworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\obj\Debug\EntityFrameworkProjects.csproj.CopyComplete
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\obj\Debug\EntityFrameworkProjects.exe
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\obj\Debug\EntityFrameworkProjects.pdb
+C:\Users\user\Source\Repos\erdemdoganayy\CSharp\EntityFrameworkProjects\obj\Debug\EntityFrameworkProjects.EntityFramework.resources
