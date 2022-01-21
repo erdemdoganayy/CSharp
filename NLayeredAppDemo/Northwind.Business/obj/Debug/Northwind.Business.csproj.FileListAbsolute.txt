@@ -12,3 +12,5 @@ C:\Users\user\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwin
 C:\Users\user\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CopyComplete
 C:\Users\user\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.dll
 C:\Users\user\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.pdb
+C:\Users\user\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\FluentValidation.dll
+C:\Users\user\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\FluentValidation.xml
