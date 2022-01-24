@@ -30,6 +30,86 @@
       "ProjectGuid": "3db6057b-b73f-41da-b7a6-b4da8fd63f77",
       "DisplayName": "Builder",
       "ColorIndex": 5
+    },
+    "95d2b0f2-5dcd-4e8c-9276-b33a001d8217": {
+      "ProjectGuid": "95d2b0f2-5dcd-4e8c-9276-b33a001d8217",
+      "DisplayName": "Adapter",
+      "ColorIndex": 6
+    },
+    "ac75918f-71bc-46e8-8e02-3ddb89ef6d12": {
+      "ProjectGuid": "ac75918f-71bc-46e8-8e02-3ddb89ef6d12",
+      "DisplayName": "Facade",
+      "ColorIndex": 7
+    },
+    "93cd0a11-e6a6-485d-98cd-fee7f04b2a23": {
+      "ProjectGuid": "93cd0a11-e6a6-485d-98cd-fee7f04b2a23",
+      "DisplayName": "Composite",
+      "ColorIndex": 8
+    },
+    "b05145a5-2b3f-4c1e-8b87-8bfa41017be1": {
+      "ProjectGuid": "b05145a5-2b3f-4c1e-8b87-8bfa41017be1",
+      "DisplayName": "Proxy",
+      "ColorIndex": 9
+    },
+    "5ea18ab4-81cd-46e1-b975-670507a3eef6": {
+      "ProjectGuid": "5ea18ab4-81cd-46e1-b975-670507a3eef6",
+      "DisplayName": "Decorator",
+      "ColorIndex": 10
+    },
+    "54a7fb84-3d15-4159-8059-61705cff2b89": {
+      "ProjectGuid": "54a7fb84-3d15-4159-8059-61705cff2b89",
+      "DisplayName": "Bridge",
+      "ColorIndex": 11
+    },
+    "604ef039-7f21-4987-9de0-40069d6109dc": {
+      "ProjectGuid": "604ef039-7f21-4987-9de0-40069d6109dc",
+      "DisplayName": "Strategy",
+      "ColorIndex": 12
+    },
+    "2183fb3e-3a55-4f7f-a183-64ad0eff302c": {
+      "ProjectGuid": "2183fb3e-3a55-4f7f-a183-64ad0eff302c",
+      "DisplayName": "Observer",
+      "ColorIndex": 13
+    },
+    "f3f84b71-40b9-4a6a-a00c-5d59a9bd58f8": {
+      "ProjectGuid": "f3f84b71-40b9-4a6a-a00c-5d59a9bd58f8",
+      "DisplayName": "ChainOfReponsibility",
+      "ColorIndex": 14
+    },
+    "1d36aac6-ab81-487c-8506-20b33cab9a7e": {
+      "ProjectGuid": "1d36aac6-ab81-487c-8506-20b33cab9a7e",
+      "DisplayName": "Memento",
+      "ColorIndex": 15
+    },
+    "f9cafc19-f909-4863-8054-0d3e6c01fc73": {
+      "ProjectGuid": "f9cafc19-f909-4863-8054-0d3e6c01fc73",
+      "DisplayName": "Template",
+      "ColorIndex": 0
+    },
+    "d0250532-a936-4f37-b5f4-7afd2a57984b": {
+      "ProjectGuid": "d0250532-a936-4f37-b5f4-7afd2a57984b",
+      "DisplayName": "State",
+      "ColorIndex": 1
+    },
+    "1674ba51-9a12-434f-ae82-e2b68e357a69": {
+      "ProjectGuid": "1674ba51-9a12-434f-ae82-e2b68e357a69",
+      "DisplayName": "Mediator",
+      "ColorIndex": 2
+    },
+    "77d863b4-285f-4ea9-b901-8d557ee82adb": {
+      "ProjectGuid": "77d863b4-285f-4ea9-b901-8d557ee82adb",
+      "DisplayName": "Command",
+      "ColorIndex": 3
+    },
+    "b793958a-597a-498e-9aa0-2e6d5b714871": {
+      "ProjectGuid": "b793958a-597a-498e-9aa0-2e6d5b714871",
+      "DisplayName": "Visitor",
+      "ColorIndex": 4
+    },
+    "7ea1bf53-e11e-48d1-b8d4-9864d716e1a3": {
+      "ProjectGuid": "7ea1bf53-e11e-48d1-b8d4-9864d716e1a3",
+      "DisplayName": "DependencyInjection",
+      "ColorIndex": 5
     }
   },
   "NextColorIndex": 6

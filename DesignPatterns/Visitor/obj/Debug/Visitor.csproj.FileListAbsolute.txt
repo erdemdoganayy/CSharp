@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\user\source\repos\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+C:\Users\user\source\repos\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\user\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+C:\Users\user\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.pdb

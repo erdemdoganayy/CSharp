@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\user\source\repos\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\user\source\repos\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\user\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\user\source\repos\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.pdb
