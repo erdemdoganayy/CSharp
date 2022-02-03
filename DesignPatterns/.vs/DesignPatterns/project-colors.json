@@ -110,7 +110,17 @@
       "ProjectGuid": "7ea1bf53-e11e-48d1-b8d4-9864d716e1a3",
       "DisplayName": "DependencyInjection",
       "ColorIndex": 5
+    },
+    "5c851d4b-69b8-4cff-8eb8-57b674bb18b4": {
+      "ProjectGuid": "5c851d4b-69b8-4cff-8eb8-57b674bb18b4",
+      "DisplayName": "NullObject",
+      "ColorIndex": 6
+    },
+    "f4715c89-7778-472e-ae8b-37b5fb4eeadd": {
+      "ProjectGuid": "f4715c89-7778-472e-ae8b-37b5fb4eeadd",
+      "DisplayName": "Multiton",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

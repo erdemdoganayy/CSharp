@@ -17,7 +17,7 @@ namespace ChainOfReponsibility
             manager.SetSuccessor(vicePresident);
             vicePresident.SetSuccessor(president);
 
-            Expense expense = new Expense { Detail = "Course", Amount = 100 };
+            Expense expense = new Expense { Detail = "Course", Amount = 1020 };
             manager.HandleExpensive(expense);
             Console.ReadLine();
         }
@@ -31,7 +31,6 @@ namespace ChainOfReponsibility
 
     abstract class ExpensiveHandlerBase
     {
-        //Ne anlama geliyor ?
         protected ExpensiveHandlerBase Successor;
         public abstract void HandleExpensive(Expense expense);
         public void SetSuccessor(ExpensiveHandlerBase successor)
