@@ -10,18 +10,18 @@ namespace BlazorAppCRUD.Data
         }
         [Key]
         public int EmployeeId { get; set; }
-        [Required]
-        public string Name { get; set; }
-        [Required]
-        public int Age { get; set; }
-        [Required]
-        public string City { get; set; }
-        [Required]
-        public string Country { get; set; }
-        [Required]
-        public string Gender { get; set; }
-        [Required]
-        public string Village { get; set; }
+  
+        public string Name { get; set; } = string.Empty;
+
+        public int Age { get; set; } 
+
+        public string City { get; set; } = string.Empty;
+
+        public string Country { get; set; } = string.Empty;
+    
+        public string Gender { get; set; } = string.Empty;
+     
+        public string Village { get; set; } = string.Empty;
 
 
         public IList<Education> Educations { get; set; }

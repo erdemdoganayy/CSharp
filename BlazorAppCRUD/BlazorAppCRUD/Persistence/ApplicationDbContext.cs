@@ -11,7 +11,7 @@ namespace BlazorAppCRUD.Data
 
         }
 
-        public DbSet<EmployeeInfo> Employees { get; set; }
+        public DbSet<EmployeeInfo> Employees { get; set; } 
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
